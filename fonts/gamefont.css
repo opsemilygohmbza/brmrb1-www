@@ -1,6 +1,6 @@
 @font-face {
     font-family: GameFont;
-    src: url("FZXIANGSU14.ttf");
+    src: url("fonts/FZXIANGSU14.ttf");
 }
 
 .IIV::-webkit-media-controls-play-button,
